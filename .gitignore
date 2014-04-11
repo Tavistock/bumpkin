@@ -1,0 +1,9 @@
+*.pyc
+*swp
+*pyreadline*egg*
+.tox
+*pycache*
+.coverage
+
+venv_bumpkin/
+build/
